@@ -1,0 +1,17 @@
+{
+	"spider":"universal",
+	"website":"新浪军事",
+	"type":"新闻",
+	"index":"https://mil.news.sina.com.cn/",
+	"settings":{
+		"USER-AGENT":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36"
+	},
+	"start_urls":[
+		"https://mil.news.sina.com.cn/roll/index.d.html?cid=57919/"
+	],
+	"allowed_domains":[
+		
+		"mil.news.sina.com.cn"
+	],
+	"rules":"sina"
+}
