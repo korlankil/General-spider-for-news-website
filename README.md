@@ -5,7 +5,8 @@
 
 （1）修改配置文件json文件和rules.py文件
  
-（2）运行> '''python run.py json配置文件名'''
+（2）运行
+   python run.py json配置文件名
 
 ### 注意：配置文件的修改主要包括以下几点：
 
